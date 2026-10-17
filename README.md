@@ -1,53 +1,65 @@
 # Hi, I'm Danila Korovkin 👋
 
-I'm a developer studying at **School 21**, focused on **Python, SQL, and C**. I enjoy building tools that automate real business processes and understanding how software works under the hood.
+**Python · Backend development · PostgreSQL · C | School 21**
 
-## 💼 Business Automation
+I like building software that solves actual problems: automating repetitive workflows, working with data, and understanding how things work under the hood.
 
-### [BotVegetables](https://github.com/xygess/BotVegetables) · Python
+Before focusing on software development, I worked in pizzeria operations and management. That experience taught me to look beyond the code and ask a practical question: **what problem does this solve?**
 
-A VK bot developed to automate vegetable supply orders between pizzerias and their supplier.
+## Featured project
 
-- Order creation with pizzeria and product selection
+### [BotVegetables](https://github.com/xygess/BotVegetables) · Python · Business automation
+
+A VK bot designed to streamline vegetable supply orders between pizzerias and their supplier.
+
+- Guided ordering flow with pizzeria and product selection
 - Administrator approval and order status notifications
 - Consolidated order summaries and automated reminders
-- Event-driven handlers, FSM-based interactions, and JSON storage
+- State-based interactions and JSON-backed data storage
 
-**Stack:** Python, vkbottle, VK Callback API, JSON
+**Tech:** Python, vkbottle, VK API, JSON
 
-## 🐍 School 21 | Python Track
+## Python projects
 
-### [Python Bootcamp](https://github.com/xygess/s21_Python_Bootcamp) · In Progress
+### [python-labs](https://github.com/xygess/python-labs) · Python
 
-A growing collection of Python projects, from algorithmic exercises to concurrent applications.
+A growing collection of my implementations, covering algorithms and application development.
 
-- **[Project 01](https://github.com/xygess/s21_Python_Bootcamp/tree/main/project01):** algorithms, data structures, JSON processing, DFS, dynamic programming, and numeric parsing
-- **[Project 02](https://github.com/xygess/s21_Python_Bootcamp/tree/main/project02):** an OOP-based exam simulator with multiprocessing and an asynchronous image downloader
+- **Algorithms and data structures:** graph traversal (DFS), dynamic programming, parsing, and JSON processing
+- **Exam simulation:** object-oriented design and multiprocessing
+- **Asynchronous image downloader:** concurrent HTTP requests with `asyncio`, `httpx`, and `anyio`
 
-**Stack:** Python, multiprocessing, asyncio, httpx, anyio, PrettyTable
+*Currently expanding my Python backend skills.*
 
-## 🗃️ School 21 | SQL Track
+## Databases
 
-### [SQL Bootcamp](https://github.com/xygess/s21_SQL_Bootcamp) · PostgreSQL
+### [postgresql-labs](https://github.com/xygess/postgresql-labs) · PostgreSQL
 
-A complete SQL Bootcamp organized into **10 daily modules and 2 team projects**, covering database querying, design, performance, and programming.
+A collection of SQL implementations, from analytical queries to database programming.
 
-- Complex queries: `JOIN`, subqueries, CTEs, window functions, and set operations
-- Database design: constraints, sequences, views, and materialized views
-- Performance: indexes and `EXPLAIN`
-- Transactions, isolation levels, functions, and triggers
-- Team projects: Traveling Salesman Problem with recursive SQL and historical currency conversion
+- Joins, subqueries, CTEs, window functions, and set operations
+- Schema design, constraints, views, and materialized views
+- Indexing, `EXPLAIN`, and query optimization
+- Transactions and isolation levels; functions, triggers, and auditing
+- Recursive SQL and historical currency conversion
 
-**Stack:** PostgreSQL, SQL, PL/pgSQL, DBeaver, Git  
-**Result:** All bootcamp projects successfully completed.
+**Tech:** PostgreSQL, SQL, PL/pgSQL
 
-## 🏫 School 21 | C Track
+## C projects
 
-Projects focused on systems programming, memory management, and implementations of C libraries and command-line tools.
-
-| Project | Description |
+| Repository | What I built |
 |---|---|
-| [s21_SimpleBashUtils](https://github.com/xygess/s21_SimpleBashUtils) | Implementations of the `cat` and `grep` command-line utilities |
-| [s21_string](https://github.com/xygess/s21_string) | Implementation of functions from the C standard string library |
-| [s21_decimal](https://github.com/xygess/s21_decimal) | Decimal arithmetic library |
-| [s21_matrix](https://github.com/xygess/s21_matrix) | Matrix operations library |
+| [unix-text-utils](https://github.com/xygess/unix-text-utils) | Command-line text utilities inspired by `cat` and `grep` |
+| [c-string-library](https://github.com/xygess/c-string-library) | String manipulation and formatting functions in C |
+| [decimal-arithmetic](https://github.com/xygess/decimal-arithmetic) | Decimal number representation and arithmetic |
+| [c-matrix-library](https://github.com/xygess/c-matrix-library) | Matrix operations implemented in C |
+
+## What I'm working on
+
+- Developing Python backend skills, including Flask and HTTP APIs
+- Going deeper into PostgreSQL, software design, and testing
+- Building and refining practical projects at **School 21**
+
+---
+
+**My approach:** learn the fundamentals, build something real, test it, and make it better.
